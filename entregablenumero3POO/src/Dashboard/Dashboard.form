@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Dashboard.Dashboard">
+  <grid id="27dc6" binding="dashboardForm" layout-manager="FlowLayout" hgap="22" vgap="46" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="620" height="400"/>
+    </constraints>
+    <properties>
+      <background color="-1513240"/>
+      <minimumSize width="620" height="400"/>
+      <preferredSize width="620" height="400"/>
+    </properties>
+    <border type="empty" title="Dashboard ejercicios" title-justification="2" title-position="3">
+      <font name="Segoe UI" size="28" style="1"/>
+      <title-color color="-16777216"/>
+    </border>
+    <children>
+      <component id="79b07" class="javax.swing.JButton" binding="btnCirculo">
+        <constraints/>
+        <properties>
+          <background color="-16777216"/>
+          <borderPainted value="false"/>
+          <font name="Segoe UI" size="18" style="0"/>
+          <foreground color="-328966"/>
+          <hideActionText value="false"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="11"/>
+          <iconTextGap value="5"/>
+          <preferredSize width="166" height="60"/>
+          <text value="Ejercicio 18"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="69824" class="javax.swing.JButton" binding="btnEjercicio19">
+        <constraints/>
+        <properties>
+          <background color="-16777216"/>
+          <borderPainted value="false"/>
+          <font name="Segoe UI" size="18" style="0"/>
+          <foreground color="-328966"/>
+          <hideActionText value="false"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="11"/>
+          <iconTextGap value="5"/>
+          <preferredSize width="166" height="60"/>
+          <text value="Ejercicio 19"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="22ace" class="javax.swing.JButton" binding="btnEjercicio7">
+        <constraints/>
+        <properties>
+          <background color="-16777216"/>
+          <borderPainted value="false"/>
+          <font name="Segoe UI" size="18" style="0"/>
+          <foreground color="-328966"/>
+          <hideActionText value="false"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="11"/>
+          <iconTextGap value="5"/>
+          <preferredSize width="166" height="60"/>
+          <text value="Ejercicio 7"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="a7204" class="javax.swing.JButton" binding="btnEjercicio10">
+        <constraints/>
+        <properties>
+          <background color="-16777216"/>
+          <borderPainted value="false"/>
+          <font name="Segoe UI" size="18" style="0"/>
+          <foreground color="-328966"/>
+          <hideActionText value="false"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="11"/>
+          <iconTextGap value="5"/>
+          <preferredSize width="166" height="60"/>
+          <text value="Ejercicio 10"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="b69b1" class="javax.swing.JButton" binding="btnEjercicio22">
+        <constraints/>
+        <properties>
+          <background color="-16777216"/>
+          <borderPainted value="false"/>
+          <font name="Segoe UI" size="18" style="0"/>
+          <foreground color="-328966"/>
+          <hideActionText value="false"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="11"/>
+          <iconTextGap value="5"/>
+          <preferredSize width="166" height="60"/>
+          <text value="Ejercicio 22"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="f1a58" class="javax.swing.JButton" binding="btnEjercicio23">
+        <constraints/>
+        <properties>
+          <background color="-16777216"/>
+          <borderPainted value="false"/>
+          <font name="Segoe UI" size="18" style="0"/>
+          <foreground color="-328966"/>
+          <hideActionText value="false"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="11"/>
+          <iconTextGap value="5"/>
+          <preferredSize width="166" height="60"/>
+          <text value="Ejercicio 23"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="2e0d" class="javax.swing.JButton" binding="btnEjercicio40">
+        <constraints/>
+        <properties>
+          <background color="-16777216"/>
+          <borderPainted value="false"/>
+          <font name="Segoe UI" size="18" style="0"/>
+          <foreground color="-328966"/>
+          <hideActionText value="false"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="11"/>
+          <iconTextGap value="5"/>
+          <preferredSize width="166" height="60"/>
+          <text value="Ejercicio 40"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="2bf9e" class="javax.swing.JButton" binding="btnEjercicio41">
+        <constraints/>
+        <properties>
+          <background color="-16777216"/>
+          <borderPainted value="false"/>
+          <font name="Segoe UI" size="18" style="0"/>
+          <foreground color="-328966"/>
+          <hideActionText value="false"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="11"/>
+          <iconTextGap value="5"/>
+          <preferredSize width="166" height="60"/>
+          <text value="Ejercicio 41"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="8a3a9" class="javax.swing.JButton" binding="btnDashboardFiguras">
+        <constraints/>
+        <properties>
+          <background color="-16777216"/>
+          <borderPainted value="false"/>
+          <contentAreaFilled value="true"/>
+          <defaultCapable value="true"/>
+          <doubleBuffered value="false"/>
+          <font name="Segoe UI" size="18" style="0"/>
+          <foreground color="-328966"/>
+          <hideActionText value="false"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="0"/>
+          <iconTextGap value="5"/>
+          <preferredSize width="166" height="60"/>
+          <text value="&lt;html&gt; Figuras &lt;br&gt; geométricas&lt;/html&gt;"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

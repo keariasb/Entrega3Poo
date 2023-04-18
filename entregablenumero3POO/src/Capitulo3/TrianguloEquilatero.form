@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Capitulo3.TrianguloEquilatero">
+  <grid id="27dc6" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="381" height="460"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="4e0c2" binding="TrianguloEquilateroForm" layout-manager="FlowLayout" hgap="20" vgap="25" flow-align="1">
+        <constraints/>
+        <properties>
+          <background color="-16310485"/>
+          <foreground color="-15787585"/>
+          <minimumSize width="350" height="450"/>
+          <name value="comparadorABForm"/>
+          <opaque value="true"/>
+          <preferredSize width="380" height="450"/>
+        </properties>
+        <border type="empty" title="Triangulo Equilatero" title-justification="2" title-position="3">
+          <font name="Segoe UI" size="28" style="1"/>
+          <title-color color="-5524801"/>
+        </border>
+        <children>
+          <component id="5dae5" class="javax.swing.JLabel" binding="lblLado">
+            <constraints/>
+            <properties>
+              <background color="-1"/>
+              <font name="Segoe UI" size="18" style="0"/>
+              <foreground color="-525574"/>
+              <horizontalAlignment value="0"/>
+              <horizontalTextPosition value="11"/>
+              <labelFor value="55266"/>
+              <maximumSize width="600" height="50"/>
+              <minimumSize width="300" height="40"/>
+              <opaque value="false"/>
+              <preferredSize width="300" height="30"/>
+              <text value="Valor Lado"/>
+              <toolTipText value="Código del empleado"/>
+              <verticalTextPosition value="0"/>
+            </properties>
+          </component>
+          <component id="296" class="javax.swing.JTextPane" binding="txtLado">
+            <constraints/>
+            <properties>
+              <background color="-1"/>
+              <dragEnabled value="true"/>
+              <font name="Segoe UI" size="14" style="0"/>
+              <inheritsPopupMenu value="false"/>
+              <margin top="4" left="8" bottom="4" right="8"/>
+              <minimumSize width="200" height="30"/>
+              <preferredSize width="220" height="30"/>
+              <text value=""/>
+            </properties>
+          </component>
+          <component id="91a09" class="javax.swing.JButton" binding="btnCalcular">
+            <constraints/>
+            <properties>
+              <background color="-3682817"/>
+              <borderPainted value="false"/>
+              <font swing-font="Button.font"/>
+              <foreground color="-16777216"/>
+              <horizontalAlignment value="0"/>
+              <horizontalTextPosition value="11"/>
+              <label value="Calcular"/>
+              <margin top="1" left="0" bottom="1" right="0"/>
+              <maximumSize width="300" height="40"/>
+              <minimumSize width="150" height="40"/>
+              <preferredSize width="250" height="40"/>
+              <text value="Calcular"/>
+            </properties>
+          </component>
+          <component id="d16d6" class="javax.swing.JButton" binding="btnLimpiar">
+            <constraints/>
+            <properties>
+              <background color="-3682817"/>
+              <borderPainted value="false"/>
+              <font swing-font="Button.font"/>
+              <foreground color="-16777216"/>
+              <horizontalAlignment value="0"/>
+              <horizontalTextPosition value="11"/>
+              <label value="Limpiar"/>
+              <margin top="1" left="0" bottom="1" right="0"/>
+              <maximumSize width="300" height="40"/>
+              <minimumSize width="150" height="40"/>
+              <preferredSize width="250" height="40"/>
+              <text value="Limpiar"/>
+            </properties>
+          </component>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="FigurasGeometricas.DashboardFiguras">
+  <grid id="27dc6" binding="dashboardFigForm" layout-manager="FlowLayout" hgap="35" vgap="28" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="580" height="320"/>
+    </constraints>
+    <properties>
+      <background color="-1513240"/>
+      <minimumSize width="580" height="320"/>
+      <preferredSize width="600" height="320"/>
+    </properties>
+    <border type="empty" title="Dashboard figuras geométricas" title-justification="2" title-position="3">
+      <font name="Segoe UI" size="26" style="1"/>
+      <title-color color="-16777216"/>
+    </border>
+    <children>
+      <component id="79b07" class="javax.swing.JButton" binding="btnCirculo">
+        <constraints/>
+        <properties>
+          <background color="-380366"/>
+          <borderPainted value="false"/>
+          <font name="Segoe UI" size="20" style="1"/>
+          <foreground color="-328966"/>
+          <hideActionText value="false"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="11"/>
+          <iconTextGap value="5"/>
+          <preferredSize width="250" height="55"/>
+          <text value="Círculo"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="69824" class="javax.swing.JButton" binding="btnRectangulo">
+        <constraints/>
+        <properties>
+          <background color="-223185"/>
+          <borderPainted value="false"/>
+          <font name="Segoe UI" size="20" style="1"/>
+          <foreground color="-328966"/>
+          <hideActionText value="false"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="11"/>
+          <iconTextGap value="5"/>
+          <preferredSize width="250" height="55"/>
+          <text value="Rectángulo"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="22ace" class="javax.swing.JButton" binding="btnCuadrado">
+        <constraints/>
+        <properties>
+          <background color="-137163"/>
+          <borderPainted value="false"/>
+          <font name="Segoe UI" size="20" style="1"/>
+          <foreground color="-328966"/>
+          <hideActionText value="false"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="11"/>
+          <iconTextGap value="5"/>
+          <preferredSize width="250" height="55"/>
+          <text value="Cuadrado"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="a7204" class="javax.swing.JButton" binding="btnTrianguloRectangulo">
+        <constraints/>
+        <properties>
+          <background color="-7800188"/>
+          <borderPainted value="false"/>
+          <doubleBuffered value="false"/>
+          <font name="Segoe UI" size="20" style="1"/>
+          <foreground color="-328966"/>
+          <hideActionText value="false"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="11"/>
+          <iconTextGap value="5"/>
+          <preferredSize width="250" height="55"/>
+          <text value="Triángulo Rectángulo"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="b69b1" class="javax.swing.JButton" binding="btnRombo">
+        <constraints/>
+        <properties>
+          <background color="-10116618"/>
+          <borderPainted value="false"/>
+          <font name="Segoe UI" size="20" style="1"/>
+          <foreground color="-328966"/>
+          <hideActionText value="false"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="11"/>
+          <iconTextGap value="5"/>
+          <preferredSize width="250" height="55"/>
+          <text value="Rombo"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+      <component id="f1a58" class="javax.swing.JButton" binding="btnTrapecio">
+        <constraints/>
+        <properties>
+          <background color="-8760864"/>
+          <borderPainted value="false"/>
+          <font name="Segoe UI" size="20" style="1"/>
+          <foreground color="-328966"/>
+          <hideActionText value="false"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="11"/>
+          <iconTextGap value="5"/>
+          <preferredSize width="250" height="55"/>
+          <text value="Trapecio"/>
+          <verticalAlignment value="0"/>
+          <verticalTextPosition value="0"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>

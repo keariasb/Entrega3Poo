@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="FigurasGeometricas.Cuadrado">
+  <grid id="27dc6" binding="cuadradoForm" layout-manager="FlowLayout" hgap="25" vgap="25" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="500" height="350"/>
+    </constraints>
+    <properties>
+      <background color="-1513240"/>
+      <maximumSize width="1500" height="1350"/>
+      <minimumSize width="500" height="350"/>
+      <preferredSize width="500" height="350"/>
+    </properties>
+    <border type="empty" title="Cuadrado" title-justification="2">
+      <font name="Segoe UI" size="36" style="1"/>
+      <title-color color="-16777216"/>
+    </border>
+    <children>
+      <component id="65663" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <font name="Segoe UI" size="18"/>
+          <foreground color="-16777216"/>
+          <preferredSize width="105" height="25"/>
+          <text value="Lado"/>
+        </properties>
+      </component>
+      <component id="d4c27" class="javax.swing.JTextPane" binding="txtLado">
+        <constraints/>
+        <properties>
+          <background color="-1"/>
+          <disabledTextColor color="-16310485"/>
+          <dragEnabled value="true"/>
+          <font name="Segoe UI" size="16" style="0"/>
+          <inheritsPopupMenu value="false"/>
+          <margin top="4" left="8" bottom="4" right="8"/>
+          <minimumSize width="400" height="30"/>
+          <nextFocusableComponent value="b2e17"/>
+          <opaque value="true"/>
+          <preferredSize width="290" height="35"/>
+          <text value=""/>
+        </properties>
+        <clientProperties>
+          <JEditorPane.honorDisplayProperties class="java.lang.Boolean" value="false"/>
+          <charset class="java.lang.String" value=""/>
+          <html.disable class="java.lang.Boolean" value="false"/>
+        </clientProperties>
+      </component>
+      <component id="98096" class="javax.swing.JButton" binding="btnCalcular">
+        <constraints/>
+        <properties>
+          <background color="-14745780"/>
+          <borderPainted value="false"/>
+          <focusPainted value="true"/>
+          <font swing-font="Button.font"/>
+          <foreground color="-16777216"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="11"/>
+          <label value="Calcular"/>
+          <margin top="0" left="0" bottom="0" right="0"/>
+          <maximumSize width="300" height="40"/>
+          <minimumSize width="150" height="40"/>
+          <preferredSize width="200" height="40"/>
+          <text value="Calcular"/>
+        </properties>
+      </component>
+      <component id="99338" class="javax.swing.JButton" binding="btnLimpiar">
+        <constraints/>
+        <properties>
+          <background color="-65503"/>
+          <borderPainted value="false"/>
+          <focusPainted value="true"/>
+          <font swing-font="Button.font"/>
+          <foreground color="-16777216"/>
+          <horizontalAlignment value="0"/>
+          <horizontalTextPosition value="11"/>
+          <label value="Limpiar"/>
+          <margin top="0" left="0" bottom="0" right="0"/>
+          <maximumSize width="300" height="40"/>
+          <minimumSize width="150" height="40"/>
+          <preferredSize width="200" height="40"/>
+          <text value="Limpiar"/>
+        </properties>
+      </component>
+      <component id="90ef4" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <font name="Segoe UI" size="18"/>
+          <foreground color="-16777216"/>
+          <preferredSize width="105" height="25"/>
+          <text value="Perímetro"/>
+        </properties>
+      </component>
+      <component id="8854e" class="javax.swing.JTextPane" binding="txtPerimetro">
+        <constraints/>
+        <properties>
+          <background color="-1"/>
+          <disabledTextColor color="-16310485"/>
+          <dragEnabled value="true"/>
+          <font name="Segoe UI" size="16" style="0"/>
+          <inheritsPopupMenu value="false"/>
+          <margin top="4" left="8" bottom="4" right="8"/>
+          <minimumSize width="400" height="30"/>
+          <nextFocusableComponent value="b2e17"/>
+          <opaque value="true"/>
+          <preferredSize width="290" height="35"/>
+          <text value=""/>
+        </properties>
+        <clientProperties>
+          <JEditorPane.honorDisplayProperties class="java.lang.Boolean" value="false"/>
+          <charset class="java.lang.String" value=""/>
+          <html.disable class="java.lang.Boolean" value="false"/>
+        </clientProperties>
+      </component>
+      <component id="8fe94" class="javax.swing.JLabel">
+        <constraints/>
+        <properties>
+          <font name="Segoe UI" size="18"/>
+          <foreground color="-16777216"/>
+          <preferredSize width="105" height="25"/>
+          <text value="Área"/>
+        </properties>
+      </component>
+      <component id="76829" class="javax.swing.JTextPane" binding="txtArea">
+        <constraints/>
+        <properties>
+          <background color="-1"/>
+          <disabledTextColor color="-16310485"/>
+          <dragEnabled value="true"/>
+          <font name="Segoe UI" size="16" style="0"/>
+          <inheritsPopupMenu value="false"/>
+          <margin top="4" left="8" bottom="4" right="8"/>
+          <minimumSize width="400" height="30"/>
+          <nextFocusableComponent value="b2e17"/>
+          <opaque value="true"/>
+          <preferredSize width="290" height="35"/>
+          <text value=""/>
+        </properties>
+        <clientProperties>
+          <JEditorPane.honorDisplayProperties class="java.lang.Boolean" value="false"/>
+          <charset class="java.lang.String" value=""/>
+          <html.disable class="java.lang.Boolean" value="false"/>
+        </clientProperties>
+      </component>
+    </children>
+  </grid>
+</form>
